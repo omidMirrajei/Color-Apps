@@ -22,3 +22,5 @@
 ![#374046](https://placehold.it/15/374046/000000?text=+) ```#374046``` PrimaryDark
 
 ![#FFA000](https://placehold.it/15/FFA000/000000?text=+) ```#FFA000``` Accent
+
+![#FFF176](https://placehold.it/15/FFF176/000000?text=+) ```#FFF176``` TitleBar (Optional)
